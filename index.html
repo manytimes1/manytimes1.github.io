@@ -8,9 +8,15 @@
         <link rel="stylesheet" href="public/css/style.css">
     </head>
     <body id="page-top">
+        <div class="preloader">
+            <svg class="circular" viewBox="25 25 50 50">
+                <circle class="path" cx="50" cy="50" r="20" fill="none" stroke-width="2" stroke-miterlimit="10" />
+            </svg>
+        </div>
         <div id="root">
             <router-view></router-view>
         </div>
         <script src="public/js/app.js"></script>
+        <script src="public/js/plugin.js"></script>
     </body>
 </html>
