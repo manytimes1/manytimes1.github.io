@@ -6,6 +6,7 @@
             <about-me></about-me>
             <experience></experience>
             <education></education>
+            <skills></skills>
         </div>
     </div>
 </template>
@@ -15,10 +16,11 @@
     import AboutMe from './about'
     import Experience from './experience'
     import Education from './education'
+    import Skills from './skills'
 
     export default {
         components: {
-            NavBar, AboutMe, Experience, Education
+            NavBar, AboutMe, Experience, Education, Skills
         }
     }
 </script>
