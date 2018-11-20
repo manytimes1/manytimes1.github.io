@@ -9,7 +9,8 @@
                     <div class="subheading mb-3">Software Engineering</div>
                     <p>Completed courses:</p>
                     <ul>
-                        <li>Programming Basics with C++</li>
+                        <li><a href="https://softuni.bg/certificates/details/59153/6b5ef0a8" target="_blank">Programming Basics with C++</a></li>
+                        <li><a href="" target="_blank">Technology Fundamentals</a></li>
                         <li>PHP Web Development Basics</li>
                     </ul>
                 </div>
