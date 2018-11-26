@@ -7,12 +7,15 @@
                 <div class="resume-content mr-auto">
                     <h3 class="mb-0">Software University</h3>
                     <div class="subheading mb-3">Software Engineering</div>
-                    <p>Completed courses:</p>
-                    <ul>
-                        <li><a href="https://softuni.bg/certificates/details/59153/6b5ef0a8" target="_blank">Programming Basics with C++</a></li>
-                        <li><a href="" target="_blank">Technology Fundamentals</a></li>
-                        <li>PHP Web Development Basics</li>
-                    </ul>
+                    <div>
+                        <p>Completed courses:</p>
+                        <p>
+                            <span class="icon-badge"></span>
+                            <a href="https://softuni.bg/certificates/details/59153/6b5ef0a8" target="_blank">
+                                Programming Basics with C++
+                            </a>
+                        </p>
+                    </div>
                 </div>
                 <div class="resume-date text-md-right">
                     <span class="text-primary">2017 - present</span>

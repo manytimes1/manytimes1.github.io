@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "author": "Ivaylo Ivanov",
   "email": "frostwolfe91@gmail.com",
-  "homepage": "",
-  "license": "BSD-3-Clause",
+  "homepage": "https://manytimes1.github.io/",
+  "license": "GNU Licence",
   "private": true,
   "scripts": {
     "dev": "npm run development",
@@ -27,9 +27,11 @@
     "normalize-scss": "^7.0.1"
   },
   "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.5.0",
     "bootstrap": "^4.1.3",
     "jquery": "^3.3.1",
     "popper.js": "^1.14.4",
+    "simple-line-icons": "^2.4.1",
     "vue": "^2.5.17",
     "vue-loading-overlay": "^2.2.1",
     "vue-router": "^3.0.1",
