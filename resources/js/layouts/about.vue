@@ -10,6 +10,9 @@
             <p class="lead mb-5">My name is Ivaylo Ivanov and
                 I am studying Software Engineering in Software University.
                 Currently I am working like Web Development Freelancer.
+                I started try to program in 2016 with PHP when for my diploma had to develop a course project
+                under the title "Student Information System like E-Diary.
+                Then i liked to program and continue to study in Software University /Soft Uni/ for PHP Developer."
             </p>
 
             <div class="social-icons">
