@@ -5,7 +5,7 @@ const router = new VueRouter({
     routes: [
         {
             path: '/',
-            component: () => import('./layouts/default-page' /* webpackChunkName: "js/default-page" */)
+            component: () => import('./layouts/default-page' /* webpackChunkName: "/js/default-page" */)
         }
     ]
 });
