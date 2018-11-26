@@ -6,6 +6,6 @@
 @import "resume-item";
 @import "bootstrap-overrides";
 @import "spinners";
-@import '~@fortawesome/fontawesome-free/css/all';
-@import "~simple-line-icons/scss/simple-line-icons";
+@import "../plugins/fortawesome/css/all.css";
+@import "../plugins/simple-line-icons/css/simple-line-icons.css";
 @import "custom";
