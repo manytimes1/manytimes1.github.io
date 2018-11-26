@@ -7,7 +7,8 @@
             <div class="subheading mb-5">Burgas, Bulgaria ·
                 <a href="mailto:name@email.com">frostwolfe91@gmail.com</a>
             </div>
-            <p class="lead mb-5">I am studying Software Engineering in Software University.
+            <p class="lead mb-5">My name is Ivaylo Ivanov and
+                I am studying Software Engineering in Software University.
                 Currently I am working like Web Development Freelancer.
             </p>
 
