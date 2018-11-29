@@ -30,7 +30,7 @@ $(function() {
 
   $(function () {
       var url = window.location;
-      var element = $('nav#sideNav a').filter(function () {
+      var element = $('ul#sidebarnav a').filter(function () {
           return this.href == url;
       }).addClass('active').parent().addClass('active');
       while (true) {
