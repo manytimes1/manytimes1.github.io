@@ -1,5 +1,5 @@
 <template>
-    <nav class="navbar navbar-expand-lg navbar-dark bg-primary fixed-top">
+    <nav id="sideNav" class="navbar navbar-expand-lg navbar-dark bg-primary fixed-top">
         <a class="navbar-brand js-scroll-trigger" href="#page-top">
             <span class="d-block d-lg-none">Ivaylo Ivanov</span>
             <span class="d-none d-lg-block">
@@ -11,7 +11,7 @@
             <span class="navbar-toggler-icon"></span>
         </button>
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
-            <ul id="sideNav" class="navbar-nav">
+            <ul class="navbar-nav">
                 <li class="nav-item">
                     <a class="nav-link js-scroll-trigger" href="#about">About</a>
                 </li>

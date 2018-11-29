@@ -24,22 +24,7 @@ $(function() {
   });
 
   // Activate scrollspy to add active class to navbar items on scroll
-  // $('body').scrollspy({
-  //   target: "#sideNav"
-  // });
-
-  $(function () {
-      var url = window.location;
-      var element = $('ul#sidebarnav a').filter(function () {
-          return this.href == url;
-      }).addClass('active').parent().addClass('active');
-      while (true) {
-          if (element.is('li')) {
-              element = element.parent().addClass('in').parent().addClass('active');
-          }
-          else {
-              break;
-          }
-      }
+  $('body').scrollspy({
+    target: "#root"
   });
 });
