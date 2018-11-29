@@ -1,7 +1,8 @@
-(function($) {
-  "use strict"; // Start of use strict
-
-  $(".preloader").fadeOut();
+$(function() {
+  "use strict";
+  $(function () {
+      $(".preloader").fadeOut();
+  });
 
   // Smooth scrolling using jQuery easing
   $('a.js-scroll-trigger[href*="#"]:not([href="#"])').click(function() {
@@ -23,8 +24,22 @@
   });
 
   // Activate scrollspy to add active class to navbar items on scroll
-  $('body').scrollspy({
-    target: "#sideNav"
-  });
+  // $('body').scrollspy({
+  //   target: "#sideNav"
+  // });
 
-})(jQuery); // End of use strict
+  $(function () {
+      var url = window.location;
+      var element = $('nav#sideNav a').filter(function () {
+          return this.href == url;
+      }).addClass('active').parent().addClass('active');
+      while (true) {
+          if (element.is('li')) {
+              element = element.parent().addClass('in').parent().addClass('active');
+          }
+          else {
+              break;
+          }
+      }
+  });
+});
