@@ -1,11 +1,12 @@
-@import '~bootstrap/scss/bootstrap';
-@import 'variable';
-@import "mixins";
-@import "global";
-@import "nav";
-@import "resume-item";
-@import "bootstrap-overrides";
-@import "spinners";
+@import "~bootstrap/dist/css/bootstrap.min.css";
 @import "../plugins/fortawesome/css/all.css";
 @import "../plugins/simple-line-icons/css/simple-line-icons.css";
-@import "custom";
+@import "variables.scss";
+@import "mixins.scss";
+@import "global.scss";
+@import "nav.scss";
+@import "resume-item.scss";
+@import "bootstrap-overrides.scss";
+@import "spinners.scss";
+@import "custom.scss";
+

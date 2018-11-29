@@ -9,9 +9,9 @@ window.Popper = require('popper.js').default;
  */
 
 try {
-    window.$ = window.jQuery = require('jquery');
+    window.$ = window.jQuery = require('jquery/dist/jquery.min');
 
-    require('bootstrap');
+    require('bootstrap/dist/js/bootstrap.bundle.min')
 } catch (e) {}
 
 import Vue from 'vue'

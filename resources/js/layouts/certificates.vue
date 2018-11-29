@@ -1,7 +1,7 @@
 <template>
-    <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="cerficates">
+    <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="certificates">
         <div class="my-auto">
-            <h2>Certifications</h2>
+            <h2 class="mb-5">Certifications</h2>
             <ul class="fa-ul mb-0">
                 <li>
                     <i class="fa-li fa fa-trophy">
@@ -14,13 +14,3 @@
         </div>
     </section>
 </template>
-
-<script>
-    export default {
-        name: "certificates"
-    }
-</script>
-
-<style scoped>
-
-</style>

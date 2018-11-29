@@ -1,6 +1,6 @@
 {
-    "/../public/js/default-page.js": "/../public/js/default-page.js?id=54bb4aa216ac6757fd01",
-    "/js/app.js": "/js/app.js?id=aa9e56b8ce79443f195d",
-    "/css/style.css": "/css/style.css?id=d082f05c7ed04fbfc4c9",
-    "/js/plugin.js": "/js/plugin.js?id=0907c5187d2e70b1dc4e"
+    "public/js/default-page.js": "public/js/default-page.js?id=d8bcf205fcd7d3e963b0",
+    "public/js/app.js": "public/js/app.js?id=274b7bfe6fa48ec4b424",
+    "public/css/style.css": "public/css/style.css?id=1059612da790b52689fb",
+    "public/js/plugin.js": "public/js/plugin.js?id=40b495348fd9591c16ce"
 }

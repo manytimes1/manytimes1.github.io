@@ -14,7 +14,6 @@
                 under the title "Student Information System like E-Diary.
                 Then i liked to program and continue to study in Software University /Soft Uni/ for PHP Developer."
             </p>
-
             <div class="social-icons">
                 <a href="https://www.linkedin.com/in/ivayloivv">
                     <i class="fab fa-linkedin-in"></i>

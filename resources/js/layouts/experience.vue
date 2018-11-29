@@ -51,7 +51,6 @@
                     <span class="text-primary">November 2014 - December 2017</span>
                 </div>
             </div>
-
         </div>
     </section>
 </template>
