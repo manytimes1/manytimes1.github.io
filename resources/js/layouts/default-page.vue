@@ -1,13 +1,15 @@
 <template>
-    <nav-bar></nav-bar>
+    <div>
+        <nav-bar></nav-bar>
 
-    <div class="container-fluid p-0">
-        <about-me></about-me>
-        <experience></experience>
-        <education></education>
-        <skills></skills>
-        <certifications></certifications>
-        <projects></projects>
+        <div class="container-fluid p-0">
+            <about-me></about-me>
+            <experience></experience>
+            <education></education>
+            <skills></skills>
+            <certifications></certifications>
+            <projects></projects>
+        </div>
     </div>
 </template>
 
