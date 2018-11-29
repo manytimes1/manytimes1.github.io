@@ -4,7 +4,7 @@
             <h2 class="mb-5">Certifications</h2>
             <ul class="fa-ul mb-0">
                 <li>
-                    <i class="fa-li fa fa-trophy">
+                    <i class="fa-li fa fa-trophy text-warning">
                         <a href="https://softuni.bg/certificates/details/59153/6b5ef0a8">
                             Programming Basics with C++
                         </a>
