@@ -1,10 +1,10 @@
 <template>
     <section id="certificates">
-        <h2>Certificates</h2>
+        <h2 class="text-center">Certificates</h2>
         <div class="item-grid">
             <div class="item certificate">
                 <div class="item-image">
-                    <img src="../images/pb-cplus.jpeg" alt="softuni">
+                    <img src="/public/images/pb-cplus.jpeg" alt="softuni">
                 </div>
                 <div class="item-text">
                     <div class="item-text-wrapper">
@@ -16,7 +16,7 @@
             </div>
             <div class="item certificate">
                 <div class="item-image">
-                    <img src="../images/php-web.jpeg" alt="softuni">
+                    <img src="/public/images/php-web.jpeg" alt="softuni">
                 </div>
                 <div class="item-text">
                     <div class="item-text-wrapper">
@@ -28,7 +28,7 @@
             </div>
             <div class="item certificate">
                 <div class="item-image">
-                    <img src="../images/php-mvc.jpeg" alt="softuni">
+                    <img src="/public/images/php-mvc.jpeg" alt="softuni">
                 </div>
                 <div class="item-text">
                     <div class="item-text-wrapper">
