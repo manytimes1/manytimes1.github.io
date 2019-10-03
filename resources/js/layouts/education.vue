@@ -14,14 +14,20 @@
                             <a href="https://softuni.bg/certificates/details/59153/6b5ef0a8" target="_blank">
                                 Programming Basics with C++
                             </a>
+                        </p>
+                        <p>
                             <span class="icon-badge"></span>
                             <a href="https://i.imgur.com/qrt2LjE.png" target="_blank">
                                 Technology Fundamentals with PHP
                             </a>
+                        </p>
+                        <p>
                             <span class="icon-badge"></span>
                             <a href="https://softuni.bg/certificates/details/68424/69573c24" target="_blank">
                                 PHP Web Basics
                             </a>
+                        </p>
+                        <p>
                             <span class="icon-badge"></span>
                             <a href="https://softuni.bg/certificates/details/70590/ac4e695e" target="_blank">
                                 PHP MVC Frameworks - Symfony
